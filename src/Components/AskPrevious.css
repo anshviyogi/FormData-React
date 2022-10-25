@@ -1,0 +1,16 @@
+.askPrevious{
+    justify-content: center;
+    text-align: center;
+    background: #f5f5f5;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.previousButtons{
+    width: 30%;
+    border: none;
+    background: #00adef;
+    padding: 15px;
+    margin-bottom: 15px;
+    color: white;
+}

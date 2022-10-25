@@ -1,0 +1,38 @@
+.previousAddress{
+    background: #f5f5f5;
+    padding: 35px;
+    margin: 15px;
+    border-radius: 15px;
+}
+.prvAdressLabel{
+    font-size: 17px;
+}
+
+.prvAddressInput{
+    width: 100%;
+    outline: grey;
+    padding: 5px;
+    padding-left: 5px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.addressBlock{
+    margin-bottom: 35px;
+}
+
+.prvAddressButtonDiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.prvAddressButton{
+    padding: 10px 50px;
+    border: none;
+    background-color: #198754;
+    border-color: #198754;
+    color: white;
+    border-radius: 5px;
+}
